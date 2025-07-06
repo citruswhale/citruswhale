@@ -2,7 +2,7 @@
 
 Hi! I'm a Computer Science undergrad at **Scaler School of Technology**, passionate about **Software Development** and **Competitive Programming**. I'm on a journey to become a well-rounded techie — from writing clean code to analysing threats and building real-world apps.
 
-* 💻 Solved 500+ problems on **LeetCode**, active on **Codeforces** and **CodeChef**
+* 💻 Solved 600+ problems on **LeetCode**, active on **Codeforces** and **CodeChef**
 * 🚀 Currently learning **Low-Level Design** and building **Java Spring Boot** apps
 * 🌱 Learning **React** and **SQL**, and refining my **system design** skills
 * 🌍 Building full-stack apps with API integrations and automation
